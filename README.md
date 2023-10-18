@@ -8,6 +8,5 @@
 * GET /companies/search/{customMethod}?{param}={value} -> customMethod()
 * queryDsl GET /companies?inn=1234567890
 
-### Аннотации
 @RepositoryRestResource - class
 @RestResource - method
